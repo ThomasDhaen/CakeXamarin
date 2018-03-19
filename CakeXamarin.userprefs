@@ -1,18 +1,16 @@
 ﻿<Properties StartupConfiguration="{224E11E8-E25C-42E4-833E-765ACE785CE3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CakeXamarin/App.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CakeXamarinTest/Test.cs">
     <Files>
       <File FileName="CakeXamarinTest/Test.cs" Line="42" Column="30" />
       <File FileName="CakeXamarin/Calculator.cs" Line="4" Column="28" />
       <File FileName="CakeXamarin/App.xaml" Line="7" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CakeXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4A65D818-2E59-4A3D-960C-63211E0095DA">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.CakeXamarin.iOS>
+  <MonoDevelop.Ide.ItemProperties.CakeXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
 </Properties>
